@@ -1,4 +1,3 @@
-CONTRIBUTOR CODE
 
 A Code of Conduct for Open Source Projects
 
